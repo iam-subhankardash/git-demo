@@ -1,1 +1,1 @@
-print("This script is for demo purpose")
+print("Welcome to the demo session")
